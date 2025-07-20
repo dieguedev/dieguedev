@@ -10,6 +10,6 @@
 ## Ponte en contacto conmigo 💌
 
 > Tratare de responderte lo antes posible! 😇
-- Email: dieeegue2104@gmail.com
+- Email: diego.bogo@proton.me
 - LinkedIn: [https://www.linkedin.com/in/diego-bogo](https://www.linkedin.com/in/diego-bogo)
 
