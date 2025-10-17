@@ -10,6 +10,6 @@
 ## Ponte en contacto conmigo 💌
 
 > Tratare de responderte lo antes posible! 😇
-- Email: diego.bogo@proton.me
+- Email: contacto@diegue.dev
 - LinkedIn: [https://www.linkedin.com/in/diego-bogo](https://www.linkedin.com/in/diego-bogo)
 
