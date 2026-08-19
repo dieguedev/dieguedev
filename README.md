@@ -1,15 +1,10 @@
-# Hola! Soy Diegue.
-### Un front-end developer actualmente trabajando en [@JAKALA](https://www.jakala.com/) 🐣
-
-🕵️‍♀️ Estos son algunos de los lenguajes, herramientas y metodologías que conozco!
-
- `React, React Native, Extreme Programming, Atomic Design, Hexagonal Architecture, Agile, TDD, BDD...`
-
-🥰 Me gusta mucho el diseño e intento incorporarlo como puedo en todo lo que hago.
-
-## Ponte en contacto conmigo 💌
-
-> Tratare de responderte lo antes posible! 😇
-- Email: contacto@diegue.dev
-- LinkedIn: [https://www.linkedin.com/in/diego-bogo](https://www.linkedin.com/in/diego-bogo)
+<p>
+  <a href="https://www.linkedin.com/in/diego-bogo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/wq6e0asx/image/upload/v1787167996/github-readme-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/wq6e0asx/image/upload/v1787168034/github-readme-light.png">
+      <img alt="diegue.dev" src="https://res.cloudinary.com/wq6e0asx/image/upload/v1787168034/github-readme-light.png" width="1200">
+    </picture>
+  </a>
+</p>
 
